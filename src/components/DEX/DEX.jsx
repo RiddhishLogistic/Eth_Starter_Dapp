@@ -39,7 +39,7 @@ const styles = {
 const nativeAddress = "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee";
 
 const chainIds = {
-  "0x4": "eth",
+  "0x1": "eth",
   "0x38": "bsc",
   "0x89": "polygon",
 };
